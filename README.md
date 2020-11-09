@@ -1,13 +1,12 @@
 ### Hi there 👋
 I'm currently learning the following:
   - The inner workings of Garry's Mod.
-  - FiveM's codebase, and anti-cheat
-  - Unity Hacking, and anti-cheat
+  - Unity, and FiveM combined with Anti-Cheats for both.
 
   
 I'm  working on currently:
   - A Prophunt Garry's Mod server (DM on Discord for info)
-  - Decompiling and deobfuscating IL2CPP Unity games
+  - Decompiling and deobfuscating IL2CPP a few Unity games
   - and more I might list here later
 Contact me via Discord, same name #4896
   
