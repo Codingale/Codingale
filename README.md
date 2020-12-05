@@ -10,7 +10,7 @@ I'm  working on currently:
   - and more I might list here later
 Contact me via Discord, same name #4896
   
-[![Codingale's github stats](https://github-readme-stats.vercel.app/api?username=Codingale)](https://github.com/anuraghazra/github-readme-stats)
+[![Codingale's github stats](https://github-readme-stats.vercel.app/api?username=Codingale&show_icons=true&theme=synthwave&count_private=true&custom_title=My%20Github%20Info)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Codingale/Codingale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
