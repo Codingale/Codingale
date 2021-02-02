@@ -5,7 +5,10 @@ I'm currently learning the following:
 
   
 I'm  working on currently:
-  - A Prophunt Garry's Mod server (DM on Discord for info)
+  - Garry's Mod
+    - A Prophunt Garry's Mod server
+    - A Custom Roleplay server for Garry's Mod
+    - If you wish to contact me about either of these please do on Discord.
   - Decompiling and deobfuscating IL2CPP a few Unity games
   - and more I might list here later
 Contact me via Discord, same name #4896
