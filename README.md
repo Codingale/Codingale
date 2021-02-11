@@ -8,7 +8,8 @@ I'm  working on currently:
   - Garry's Mod
     - A Prophunt Garry's Mod server
     - A Custom Roleplay server for Garry's Mod
-    - If you wish to contact me about either of these please do on Discord.
+    - If you wish to contact me about either of these please do so on Discord.
+    - Garry's Mod Alt, and Cheat detection. (I will not respond to questions about this)
   - Decompiling and deobfuscating IL2CPP a few Unity games
   - and more I might list here later
 Contact me via Discord, same name #4896
