@@ -1,13 +1,5 @@
 ### Hi there 👋  
-I'm working on the following currently:
-  - Garry's Mod:
-    - A Prophunt Garry's Mod server
-    - A Custom Roleplay server for Garry's Mod
-  - S&Box:
-    - Prophunt but for S&Box
-    - A simple administrative addon
-
-Contact me via Discord, same name #4896
+I'm Codingale, contact me via Discord if you have questions about any of my projects, I'm probably in a few mutual servers if you got here.
   
 [![Codingale's github stats](https://github-readme-stats.vercel.app/api?username=Codingale&show_icons=true&count_private=true&custom_title=My%20Github%20Info&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Codingale's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingale&langs_count=4&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
